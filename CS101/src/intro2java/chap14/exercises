@@ -1,0 +1,18 @@
+PE1: GeometricObject1.java, Triangle.java
+PE2: ComparableCircle.java
+PE3: Square.java
+PE4: House.java
+PE5: Circle.java
+PE7: Octogon.java
+PE10: PrintCalendar.java
+PE18: Rational2.java
+PE19: Rational.java
+
+Skipped:
+PE6
+PE11
+PE13
+PE20
+
+Come back to:
+PE28 for listener and drawing practice

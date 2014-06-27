@@ -1,0 +1,20 @@
+PE2: OvalButton.java
+PE4: MultTable.java
+PE5: TriNumPattern.java
+PE6: FigurePanel.java
+PE13: AbstractDrawFunction.java, TestFunction.java
+PE19: StillClock.java
+PE25: RegularPolygonPanel.java
+
+Skipped:
+PE6
+PE8
+PE9
+PE14
+PE15
+PE17
+PE18
+PE22
+PE23
+PE24
+PE26

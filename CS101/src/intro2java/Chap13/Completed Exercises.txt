@@ -1,0 +1,9 @@
+PE1: Calculator.java
+PE4: Loan.java
+PE5: IllegalTriangleException.java, Triangle.java
+PE6: HexToDecimalConversion
+PE8: HexToDecimalConversion2, HexFormatException.java
+
+Skipped:
+PE7
+PE9

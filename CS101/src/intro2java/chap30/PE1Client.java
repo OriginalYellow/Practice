@@ -5,6 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.*;
 import java.net.*;
+
 import javax.swing.*;
 
 public class PE1Client extends JFrame {
@@ -43,7 +44,7 @@ public class PE1Client extends JFrame {
 		add(p4, BorderLayout.NORTH);
 		add(scroll, BorderLayout.SOUTH);
 
-		Socket socket = new Socket("localhost", 9000);
+		Socket socket = new Socket("10.0.0.3", 9000);
 		input = new DataInputStream(socket.getInputStream());
 		output = new DataOutputStream(socket.getOutputStream());
 

@@ -29,7 +29,7 @@ public class PE1Server extends JFrame {
 				while (true) {
 					try {
 						
-						Thread.sleep(500);
+						Thread.sleep(501);
 						
 						String[] data = input.readUTF().split(" ");
 						loan = new Loan(Double.parseDouble(data[0]), Integer.parseInt(data[1]),
